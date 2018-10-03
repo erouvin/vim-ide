@@ -92,9 +92,10 @@ let NERDTreeShowHidden=1
 
 " youcomplete "
 
-" let g:ycm_python_binary_path = 'python' "
-let g:ycm_show_diagnostics_ui = 0
-
+let g:ycm_python_binary_path = '/home/erouvin/tools/pyenv/shims/python'
+nnoremap ,gd :YcmCompleter GoToDefinition<CR>
+nnoremap ,gl :YcmCompleter GoToDeclaration<CR>
+nnoremap ,gr :YcmCompleter GoToReferences<CR>
 " Syntastic "
 
 set statusline+=%#warningmsg#
