@@ -1,4 +1,3 @@
 # vim-ide
 
-Thanks to Alex Hunt page https://medium.com/@huntie/10-essential-vim-plugins-for-2018-39957190b7a9,
-and the awesome VimAwesome https://vimawesome.com/
+Stolen with pride from https://github.com/nvim-lua/kickstart.nvim and some YouTube typecraft https://www.youtube.com/watch?v=zHTeCSVAFNY&list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn
